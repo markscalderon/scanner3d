@@ -1,0 +1,13 @@
+{
+    "files": [
+	     [
+		       "fruit3d/gui/*.ui",
+		         "fruit3d/gui"
+	     ]
+    ],
+    "hooks": [],
+    "pyrcc": "pyrcc5",
+    "pyrcc_options": "",
+    "pyuic": "pyuic5",
+    "pyuic_options": "--from-import"
+}
